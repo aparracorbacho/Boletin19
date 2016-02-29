@@ -62,7 +62,8 @@ public class Boletin19 {
                 util.imprime("Gracias por ver el correo\nAdios!");
                 salir = 1;
                 break;
-            default:                
+            default:     
+                util.imprime("Opcion incorrecta, vuelve a probar gracias");
                 break;    
                 
             
